@@ -14,6 +14,8 @@ namespace Blog.DAL.Tests
     [TestClass]
     public class RepositoryTests
     {
+
+
         [TestMethod]
         public void GetAllPost_OnePostInDb_ReturnOnePost()
         {
